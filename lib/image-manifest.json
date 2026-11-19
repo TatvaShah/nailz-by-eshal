@@ -1,0 +1,177 @@
+{
+ "/images/logo.jpg": {
+  "w": 660,
+  "h": 660,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   660
+  ],
+  "base": "/images/_opt/logo.c6f3d95c01",
+  "stamp": "c6f3d95c01"
+ },
+ "/images/og-photo.jpg": {
+  "w": 480,
+  "h": 630,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   480
+  ],
+  "base": "/images/_opt/og-photo.f343392b75",
+  "stamp": "f343392b75"
+ },
+ "/images/post-1.jpg": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   720
+  ],
+  "base": "/images/_opt/post-1.9a3e651a3c",
+  "stamp": "9a3e651a3c"
+ },
+ "/images/post-10.jpg": {
+  "w": 1080,
+  "h": 1433,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/post-10.f594863797",
+  "stamp": "f594863797"
+ },
+ "/images/post-2.jpg": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   720
+  ],
+  "base": "/images/_opt/post-2.008212c36b",
+  "stamp": "008212c36b"
+ },
+ "/images/post-3.jpg": {
+  "w": 1051,
+  "h": 1394,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1051
+  ],
+  "base": "/images/_opt/post-3.ed7fbbac98",
+  "stamp": "ed7fbbac98"
+ },
+ "/images/post-4.jpg": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   720
+  ],
+  "base": "/images/_opt/post-4.94d494bb45",
+  "stamp": "94d494bb45"
+ },
+ "/images/post-5.jpg": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   720
+  ],
+  "base": "/images/_opt/post-5.83b3c806f4",
+  "stamp": "83b3c806f4"
+ },
+ "/images/post-6.jpg": {
+  "w": 1032,
+  "h": 1374,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1032
+  ],
+  "base": "/images/_opt/post-6.8f61e12074",
+  "stamp": "8f61e12074"
+ },
+ "/images/post-7.jpg": {
+  "w": 1080,
+  "h": 1920,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/post-7.bbc6018525",
+  "stamp": "bbc6018525"
+ },
+ "/images/post-8.jpg": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   720
+  ],
+  "base": "/images/_opt/post-8.b9f2bbfcbe",
+  "stamp": "b9f2bbfcbe"
+ },
+ "/images/post-9.jpg": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   720
+  ],
+  "base": "/images/_opt/post-9.9a1639f73d",
+  "stamp": "9a1639f73d"
+ }
+}
